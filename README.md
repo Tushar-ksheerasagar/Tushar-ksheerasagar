@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE @ PES University · Full-Stack & Distributed Systems Builder · AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full-Stack+Applications;Distributed+Systems+%7C+RAG+Pipelines+%7C+REST+APIs;Actively+Seeking+SWE+Internships+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full-Stack+Applications;Distributed+Systems+%7C+RAG+Pipelines+%7C+REST+APIs;Actively+Seeking+Software+Engineering+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🔧 I build full-stack systems that span **REST APIs, distributed consensus protocols, and AI-powered analytics**
 - 🤖 Hands-on with **LangChain, Mistral AI, RAG pipelines** for real-world LLM integrations
 - 📡 Implemented **RAFT consensus from scratch** — leader election, log replication, fault tolerance
-- 🔍 Open to **Software Engineering Internship** opportunities (SDE / Backend / AI)
+- 🔍 Open to **Software Engineering opportunities** opportunities (SDE / Backend / AI)
 
 ---
 
