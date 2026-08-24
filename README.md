@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:ksheerasagartushar@gmail.com"><img src="https://img.shields.io/badge/-ksheerasagartushar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Tushar-ksheerasagar"><img src="https://img.shields.io/badge/-Tushar--ksheerasagar-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tushar-ksheerasagar-844776283/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
