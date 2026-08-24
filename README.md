@@ -106,5 +106,5 @@ Full-stack visitor management platform with ID verification, student approval/re
 ---
 
 <p align="center">
-  <i>💼 Open to SWE Internship opportunities — feel free to reach out at <a href="mailto:ksheerasagartushar@gmail.com">ksheerasagartushar@gmail.com</a></i>
+  <i>💼 Open to SWE opportunities — feel free to reach out at <a href="mailto:ksheerasagartushar@gmail.com">ksheerasagartushar@gmail.com</a></i>
 </p>
